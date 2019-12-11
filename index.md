@@ -4,7 +4,7 @@
 
 ### Applications Programming 
 
-[Calculator Project](/sample_page) <br>
+[Calculator Project](/calculator_project) <br>
 <img src="images/calculator.PNG?raw=true"/>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
