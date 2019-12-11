@@ -8,5 +8,4 @@
 - QT with C++
 
 <img src="images/calculator.PNG?raw=true"/>
-<br>
 (this is a screenshot of my calculator project)
